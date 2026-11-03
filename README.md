@@ -28,7 +28,7 @@ Unless a repository includes its own license, its contents are not automatically
 ## Get in touch
 
 - Website & blog: [alexstack.dev](https://alexstack.dev)
-- GitHub: [github.com/alexstack-dev](https://github.com/alexstack-dev)
+- GitHub: [github.com/alexstack-dev](https://github.com/alexstackdev)
 
 ---
 
